@@ -1,0 +1,180 @@
+{
+    "FAS 4 - Musharaka Financing": {
+        "Type": "Equity-based contract",
+        "Initial Recognition": [
+            "Capital recognized when paid or placed under disposition.",
+            "Cash contributions measured at paid amount; non-cash measured at fair value."
+        ],
+        "Subsequent Measurement": [
+            "At historical cost after adjusting for share transfers.",
+            "Profit/loss recognized based on liquidation or periodic distribution."
+        ],
+        "Presentation and Disclosure": [
+            "Provision for decline in Musharaka asset value.",
+            "Provision for capital loss disclosed in financial statements."
+        ]
+    },
+    "FAS 7 - Salam and Parallel Salam": {
+        "Type": "Trade-based contract",
+        "Scope": "Covers accounting for Salam and Parallel Salam transactions, including all related revenues, expenses, and risk considerations.",
+        "Recognition": {
+            "Salam": "Recognized when capital is paid or made available.",
+            "Parallel Salam": "Recognized when capital is received."
+        },
+        "Measurement": {
+            "Initial": "Capital measured by amount paid or fair value (if in kind).",
+            "End of Period": "Provision for expected shortfalls or losses made."
+        },
+        "Receipt of Al-Muslam Fihi": {
+            "Recorded at": "Historical or fair value depending on quality.",
+            "Shortfall": "Recognized as a loss.",
+            "Substitution": "Same loss recognition rule applies."
+        },
+        "Defaults": {
+            "Failure to Deliver": "Recorded as receivable; subject to impairment.",
+            "Client Misconduct": "Receivable recorded for shortfall or damages."
+        },
+        "Subsequent Valuation": "Measured at lower of cost or cash equivalent value.",
+        "Profit Recognition": "Profit/loss from Parallel Salam recognized on delivery.",
+        "Presentation": {
+            "Salam Financing": "Presented as an asset.",
+            "Parallel Salam": "Presented as a liability."
+        },
+        "Disclosures": "Follow FAS 1 disclosure framework.",
+        "Effective Date": "1 January 1999"
+    },
+    "FAS 10 - Istisna\u2019a and Parallel Istisna\u2019a": {
+        "Type": "Manufacturing contract",
+        "Accounting Treatment": {
+            "By Seller (Al-Sani')": [
+                "Istisna\u2019a costs include direct and indirect costs, excluding admin and R&D expenses.",
+                "Revenue recognized using percentage-of-completion or completed contract method."
+            ],
+            "By Buyer (Al-Mustasni')": [
+                "Costs and revenues recorded upon delivery and ownership transfer."
+            ]
+        },
+        "Disclosure": [
+            "Details of cost, revenue recognition methods, profit deferral and early settlement impact.",
+            "Contract losses, change orders, and maintenance cost treatments."
+        ]
+    },
+    "FAS 28 - Murabaha and Deferred Payment Sale": {
+        "Type": "Cost-plus sale",
+        "Objective": "Prescribe accounting and reporting for Murabaha and deferred payment sales for sellers and buyers.",
+        "Scope": [
+            "Applies to Murabaha and deferred payment sales under Shari\u2019ah excluding Tawarruq and commodity Murabaha.",
+            "Not applicable to Murabaha-based investment instruments like Sukuk."
+        ],
+        "Definitions": [
+            "Arboun",
+            "Commodity Murabaha",
+            "Control",
+            "Deferred payment sale",
+            "Fair value",
+            "Hamish Jiddiyyah",
+            "Inventory",
+            "Murabaha",
+            "Murabaha to the purchase orderer",
+            "Musawama",
+            "Net realisable value (NRV)",
+            "Promise and mutual promise",
+            "Tawarruq"
+        ],
+        "Seller Accounting": {
+            "Initial Recognition": {
+                "Inventories": "Recognize when control is obtained; measured at cost.",
+                "Receivables": "Recognized at gross invoice value when sale is consummated."
+            },
+            "Subsequent Measurement": {
+                "Inventories": "Measured at lower of cost or NRV.",
+                "Receivables": "Gross amount less allowances for credit losses."
+            },
+            "De-recognition": {
+                "Inventories": "Upon transfer of control, loss, or obsolescence.",
+                "Receivables": "Upon settlement, insolvency, or write-off."
+            },
+            "Revenue Recognition": {
+                "Revenue": "Recognized upon consummation of sale.",
+                "Cost of Sales": "Recognized when revenue is recognized.",
+                "Profit Deferment": "Deferred and amortized over credit period."
+            },
+            "Other Treatments": {
+                "Waivers and Write-offs": "Net against deferred profit, then profit, then expense.",
+                "Transaction Costs": "Expensed in period incurred.",
+                "Discounts": "Affect cost of sales or revenue depending on case.",
+                "Hamish Jiddiyyah and Arboun": "Treated as liability or netted off.",
+                "Charity": "Not recognized as income."
+            },
+            "Disclosures": [
+                "Policies adopted for Murabaha transactions.",
+                "Details of inventories and receivables with classifications.",
+                "Deferred profits movement and balances.",
+                "Amounts of Hamish Jiddiyyah, Arboun, waivers, write-offs, and charity recovered."
+            ]
+        },
+        "Buyer Accounting": {
+            "Initial Recognition": "Asset and liability recorded at gross invoice value.",
+            "Subsequent Measurement": {
+                "Assets": "Per FAS or GAAP, subject to impairment or NRV.",
+                "Liabilities": "Outstanding amount less adjustments."
+            },
+            "Other Treatments": {
+                "Waivers": "First reduce asset value, remainder as income.",
+                "Hamish Jiddiyyah and Arboun": "Recognized as deposits or advances, netted post-sale."
+            },
+            "Disclosures": [
+                "Policies adopted.",
+                "Payables classified by nature and maturity.",
+                "Securities provided.",
+                "Waived amounts disclosed."
+            ]
+        },
+        "Effective Date": "1 January 2019",
+        "Supersedes": [
+            "FAS 2",
+            "FAS 20"
+        ]
+    },
+    "FAS 32 - Ijarah": {
+        "Type": "Lease-based contract",
+        "Key Principles": [
+            "Ownership remains with lessor; usufruct transferred to lessee.",
+            "Ijarah revenue recognized over lease term.",
+            "Ijarah Muntahia Bittamleek allows asset transfer at end of term."
+        ],
+        "Compliance": [
+            "Asset must be tangible and owned by the lessor.",
+            "Maintenance responsibility lies with lessor; operational expenses with lessee."
+        ]
+    },
+    "FAS 1": {
+        "Title": "General Presentation and Disclosure in the Financial Statements",
+        "Objective": "To ensure transparent financial reporting for Islamic financial institutions.",
+        "Scope": "Applicable to all financial statements prepared by Islamic financial institutions.",
+        "Key Principles": [
+            "Presentation of financial position, income, and changes in cash flows.",
+            "Disclosure of Zakah and charity-related information.",
+            "Segregation between unrestricted and restricted investment accounts."
+        ],
+        "Required Disclosures": [
+            "Zakah calculations and disbursement methods.",
+            "Sources and uses of charity funds.",
+            "Treatment of prohibited income."
+        ]
+    },
+    "FAS 2": {
+        "Title": "Murabaha and Murabaha to the Purchase Orderer",
+        "Objective": "To set accounting rules for Murabaha transactions including deferred payment sales.",
+        "Scope": "Applies to Murabaha and similar sales-based transactions in Islamic finance.",
+        "Key Principles": [
+            "Revenue is recognized upon the transfer of risks and rewards.",
+            "Deferred Murabaha gains are recognized over the term of the contract."
+        ],
+        "Required Disclosures": [
+            "Breakdown of Murabaha receivables.",
+            "Profit recognition policies.",
+            "Credit risk assessment practices."
+        ]
+    }
+}
